@@ -8,7 +8,6 @@ import UploadResume from './UploadResume/UploadResume';
 function Newapp() {
   return (
     <div className="App">
-
       <Navbar/>
       <Home/> 
       <AboutUs/>
