@@ -1,0 +1,16 @@
+.about-me-text {
+  font-weight: 200;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.aboutme-inside {
+  width: 70%;
+  margin-inline: auto;
+}
+
+.some-text-about-us {
+  text-align: justify;
+  margin-top: 40px;
+}

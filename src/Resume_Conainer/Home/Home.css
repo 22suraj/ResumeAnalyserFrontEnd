@@ -1,0 +1,9 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 670px;
+  /* background: url("../../assets/Home/bg.jpg"); */
+  /* background-color: #202020; */
+  background-color: darkcyan;
+}
